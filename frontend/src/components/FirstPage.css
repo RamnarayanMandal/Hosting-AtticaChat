@@ -1,0 +1,23 @@
+/* FirstPage.css */
+
+.wave1 {
+    background-image: url('path_to_your_wave1.svg'); /* Update this path */
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .wave2 {
+    background-image: url('path_to_your_wave2.svg'); /* Update this path */
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .bubbles {
+    background-image: url('path_to_your_bubbles.svg'); /* Update this path */
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
